@@ -1,0 +1,52 @@
+Nurse: Good morning, I'm Alex,
+Nurse: your nurse today. I'd like to do a quick
+Nurse: health assessment. Is now
+Nurse: a good time?
+Patient: Yes, that's fine.
+Nurse: Great. To start, can you confirm
+Nurse: your full name and date of birth?
+Patient: I'm Jamie Patel,
+Patient: born March 22nd, 1984.
+Nurse: Thank you. On a scale of zero to ten,
+Nurse: where zero is no pain and ten is the worst imaginable,
+Nurse: how would you rate your current pain?
+Patient: I'd say around a
+Patient: three out of ten,
+Patient: mostly in my lower back.
+Nurse: Noted. Is the pain constant,
+Nurse: or does it come and go?
+Patient: It comes and goes,
+Patient: worse when I sit for long periods.
+Nurse: Any shortness of breath,
+Nurse: chest pain, or dizziness today?
+Patient: No chest pain,
+Patient: a little lightheaded when I stand up quickly,
+Patient: but it passes.
+Nurse: Have you had any fever,
+Nurse: chills, or recent infections?
+Patient: No fevers or chills.
+Nurse: Are you currently taking any medications,
+Nurse: including over-the-counter or supplements?
+Patient: Yes, I take ibuprofen
+Patient: occasionally for the back pain,
+Patient: and a daily multivitamin.
+Nurse: Any allergies to medications or foods?
+Patient: I'm allergic to penicillin.
+Nurse: Thanks. How would you describe your appetite
+Nurse: and sleep over the past week?
+Patient: Appetite is normal,
+Patient: sleep has been a bit restless
+Patient: because of the back discomfort.
+Nurse: Understood. Do you smoke,
+Nurse: drink alcohol, or use any recreational drugs?
+Patient: I don't smoke,
+Patient: I drink socially,
+Patient: and I don't use drugs.
+Nurse: Lastly, is there anything else
+Nurse: concerning you about your health today?
+Patient: I'm mainly worried about the back pain
+Patient: affecting my work,
+Patient: and whether I should see a specialist.
+Nurse: Thank you, Jamie. We'll document this
+Nurse: and discuss next steps with your provider.
+
