@@ -1,52 +1,88 @@
-Nurse: Good morning, I'm Alex,
-Nurse: your nurse today. I'd like to do a quick
-Nurse: health assessment. Is now
-Nurse: a good time?
-Patient: Yes, that's fine.
-Nurse: Great. To start, can you confirm
-Nurse: your full name and date of birth?
-Patient: I'm Jamie Patel,
-Patient: born March 22nd, 1984.
-Nurse: Thank you. On a scale of zero to ten,
-Nurse: where zero is no pain and ten is the worst imaginable,
-Nurse: how would you rate your current pain?
-Patient: I'd say around a
-Patient: three out of ten,
-Patient: mostly in my lower back.
-Nurse: Noted. Is the pain constant,
-Nurse: or does it come and go?
-Patient: It comes and goes,
-Patient: worse when I sit for long periods.
-Nurse: Any shortness of breath,
-Nurse: chest pain, or dizziness today?
-Patient: No chest pain,
-Patient: a little lightheaded when I stand up quickly,
-Patient: but it passes.
-Nurse: Have you had any fever,
-Nurse: chills, or recent infections?
-Patient: No fevers or chills.
-Nurse: Are you currently taking any medications,
-Nurse: including over-the-counter or supplements?
-Patient: Yes, I take ibuprofen
-Patient: occasionally for the back pain,
-Patient: and a daily multivitamin.
-Nurse: Any allergies to medications or foods?
-Patient: I'm allergic to penicillin.
-Nurse: Thanks. How would you describe your appetite
-Nurse: and sleep over the past week?
-Patient: Appetite is normal,
-Patient: sleep has been a bit restless
-Patient: because of the back discomfort.
-Nurse: Understood. Do you smoke,
-Nurse: drink alcohol, or use any recreational drugs?
-Patient: I don't smoke,
-Patient: I drink socially,
-Patient: and I don't use drugs.
-Nurse: Lastly, is there anything else
-Nurse: concerning you about your health today?
-Patient: I'm mainly worried about the back pain
-Patient: affecting my work,
-Patient: and whether I should see a specialist.
-Nurse: Thank you, Jamie. We'll document this
-Nurse: and discuss next steps with your provider.
-
+Nurse: Hello, this is Alex from care management,
+Nurse: calling to complete your SDOH,
+Nurse: assessment over the phone.
+Nurse: Does the enrollee or caregiver
+Nurse: agree to be interviewed?
+Patient: Yes, I agree to be
+Patient: interviewed today.
+Nurse: Thank you. I'll record that
+Nurse: as consent to proceed.
+Nurse: 
+Nurse: For the record, how was the
+Nurse: assessment completed?
+Nurse: We are speaking by phone,
+Nurse: so I will select
+Nurse: Telephonic.
+Patient: Yes, we're on the phone.
+Nurse: 
+Nurse: Do you agree to
+Nurse: Case Management services?
+Patient: Yes, I agree to
+Patient: Case Management.
+Nurse: 
+Nurse: What is the name of your
+Nurse: Primary Care Provider, your PCP?
+Patient: My PCP is Dr. Maria
+Patient: Lopez at Riverbend Clinic.
+Nurse: 
+Nurse: Our system shows your PCP
+Nurse: as Dr. Maria Lopez.
+Nurse: Does that look correct?
+Patient: Yes, that is correct.
+Nurse: 
+Nurse: In the past twelve months,
+Nurse: have you seen your PCP
+Nurse: for any reason?
+Patient: Yes, I saw Dr. Lopez
+Patient: twice this year.
+Nurse: What was the visit for?
+Patient: My annual checkup,
+Patient: and a follow-up
+Patient: for high blood pressure.
+Nurse: 
+Nurse: How would you describe
+Nurse: your overall health?
+Patient: I'd say it's
+Patient: Good overall.
+Nurse: 
+Nurse: Could you elaborate on
+Nurse: your health condition
+Nurse: in more detail?
+Patient: I try to walk daily,
+Patient: I watch my salt,
+Patient: but my blood pressure
+Patient: can still run high,
+Patient: and my weight has been
+Patient: hard to bring down.
+Nurse: To confirm, you generally feel good,
+Nurse: you are active and watching diet,
+Nurse: but you are managing high blood pressure
+Nurse: and working on weight.
+Nurse: 
+Nurse: Are you getting medical treatment
+Nurse: for any of the following conditions?
+Nurse: Asthma or COPD,
+Nurse: Cancer,
+Nurse: Diabetes,
+Nurse: Kidney failure,
+Nurse: Heart problems,
+Nurse: Heart failure,
+Nurse: High blood pressure,
+Nurse: Mental health conditions,
+Nurse: Obesity,
+Nurse: Stroke,
+Nurse: Other,
+Nurse: or None?
+Patient: I'm being treated for
+Patient: High blood pressure,
+Patient: and I'm working with my PCP
+Patient: on Obesity.
+Nurse: Thank you. I will record
+Nurse: High blood pressure
+Nurse: and Obesity as selected.
+Nurse: Those are all the
+Nurse: questions for today.
+Patient: Thanks for the call.
+Nurse: You're welcome. We'll share
+Nurse: this with your provider
+Nurse: and follow up as needed.
